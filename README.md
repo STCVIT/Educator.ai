@@ -9,6 +9,11 @@
 
 ---
 
+## Features
+* An AI-based search to find the best tutors that cater to your needs
+* Students can access the resources uploaded by a tutor
+* A Tutor can auto-generate MCQ based test using AI on a piece of text
+* Students can give MCQ tests of a particular tutor any number of times. 
 
 ### The technology  used in the application includes 
 
